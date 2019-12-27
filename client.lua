@@ -5,7 +5,8 @@ Citizen.CreateThread(function()
 	end
 end)
 
-
+--[Coded By AdamSH]--
+--[you dont have premission to reupload ir remake without my perms]
 RegisterNetEvent("AdamSH:Use")
 AddEventHandler("AdamSH:Use", function()
         local ped = GetPlayerPed(-1)
